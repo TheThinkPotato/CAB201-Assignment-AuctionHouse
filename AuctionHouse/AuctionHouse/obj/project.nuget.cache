@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+yu6+lZttCgmyJ2IJXDylfRKSJ1B3Ai2nAbxPIH6ecEdcEduwaC5tYN6SjVcIAI1Mja4WMCo04pzuu1W3N42A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dan\\OneDrive - Queensland University of Technology\\Semester 2\\CAB201\\Assignment\\Rework\\Send4\\AuctionHouse\\AuctionHouse\\AuctionHouse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,55 @@
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.exe
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.deps.json
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.runtimeconfig.json
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.runtimeconfig.dev.json
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.dll
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.pdb
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.AssemblyInfo.cs
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.dll
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.pdb
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.genruntimeconfig.cache
+C:\Users\d__lo\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.exe
+C:\Users\d__lo\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.deps.json
+C:\Users\d__lo\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.runtimeconfig.json
+C:\Users\d__lo\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.runtimeconfig.dev.json
+C:\Users\d__lo\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.dll
+C:\Users\d__lo\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.pdb
+C:\Users\d__lo\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\d__lo\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\d__lo\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.AssemblyInfo.cs
+C:\Users\d__lo\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\d__lo\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.dll
+C:\Users\d__lo\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.pdb
+C:\Users\d__lo\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.genruntimeconfig.cache
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.exe
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.deps.json
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.runtimeconfig.json
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.runtimeconfig.dev.json
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.dll
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.pdb
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.AssemblyInfo.cs
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.dll
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.pdb
+C:\Users\Dan\OneDrive - QUT\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send3\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.genruntimeconfig.cache
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.exe
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.deps.json
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.runtimeconfig.json
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.runtimeconfig.dev.json
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.dll
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\bin\Debug\netcoreapp3.1\AuctionHouse.pdb
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.AssemblyInfo.cs
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.dll
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.pdb
+C:\Users\Dan\OneDrive - Queensland University of Technology\Semester 2\CAB201\Assignment\Rework\Send4\AuctionHouse\AuctionHouse\obj\Debug\netcoreapp3.1\AuctionHouse.genruntimeconfig.cache

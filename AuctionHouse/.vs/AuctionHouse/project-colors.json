@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ff9c3a1-95c2-44df-b649-f2bd790f75ba": {
+      "ProjectGuid": "0ff9c3a1-95c2-44df-b649-f2bd790f75ba",
+      "DisplayName": "AuctionHouse",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
